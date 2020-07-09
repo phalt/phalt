@@ -27,7 +27,7 @@ You may know me from either:
 
 The internet was cooler when we had pseudonyms or nom de plumes.
 
-Case Atreides is what I use on places that I don't want to associate with the meatspace "Paul".
+**Case** or **Case Atreides** is the name I use in places that I don't want to associate with the meatspace "Paul Hallett".
 
 Case, from [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer). Atreides from [Dune](https://en.wikipedia.org/wiki/Dune_(novel)).
 
