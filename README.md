@@ -20,3 +20,15 @@ You may know me from either:
 🦎 I live in Aotearoa New Zealand. Ko ia te ātaahua.
 
 🍸 We should eat the rich. You should join a union.
+
+🤖 I like Cyberpunk more than you do.
+
+## Who is Case?
+
+The internet was cooler when we had pseudonyms or nom de plumes.
+
+Case Atreides is what I use on places that I don't want to associate with the meatspace "Paul".
+
+Case, from [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer). Atreides from [Dune](https://en.wikipedia.org/wiki/Dune_(novel)).
+
+Mum named me after Paul Atreides, so using that as a pseudonym is out!
