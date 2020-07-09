@@ -11,6 +11,8 @@ You may know me from either:
 3) [SWAPI](https://github.com/phalt/swapi)
 4) [Django API Domains](https://github.com/phalt/django-api-domains)
 
+Or general Python things. I'm a memeber of the https://python.nz/ commmitee.
+
 ## !Programming
 
 🐦 I do [The Tweets](https://twitter.com/phalt_).
