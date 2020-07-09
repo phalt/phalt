@@ -13,6 +13,10 @@ You may know me from either:
 
 ## !Programming
 
-Outside of writing code, I also do [The Tweets](https://twitter.com/phalt_).
+🐦 I do [The Tweets](https://twitter.com/phalt_).
 
-I live in Aotearoa New Zealand. I love it here.
+👖 I'm veggie, and I have built a sustainable wardrobe. I'm really into Raw Denim jeans.
+
+🦎 I live in Aotearoa New Zealand. Ko ia te ātaahua.
+
+🍸 We should eat the rich. You should join a union.
