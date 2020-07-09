@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi I'm Paul
 
-<!--
-**phalt/phalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You probably stumbled here through Twitter or one of my GitHub projects.
 
-Here are some ideas to get you started:
+I write open source software. I like Python and JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may know me from either:
+
+1) [PokeAPI](https://github.com/pokeapi/pokeapi)
+2) [SWAPI](https://github.com/phalt/swapi)
+3) [Django API Domains](https://github.com/phalt/django-api-domains)
+
+## !Programming
+
+Outside of writing code, I also do [The Tweets](https://twitter.com/phalt_).
+
+I live in Aotearoa New Zealand. I love it here.
