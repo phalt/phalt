@@ -11,19 +11,19 @@ You may know me from either:
 3) [SWAPI](https://github.com/phalt/swapi)
 4) [Django API Domains](https://github.com/phalt/django-api-domains)
 
-Or general Python things. I'm a memeber of the https://python.nz/ commitee.
+Or general Python things. I'm a member of the https://python.nz/ commitee.
 
-## !Programming
+## Not Programming
 
 🐦 I do [The Tweets](https://twitter.com/phalt_).
 
-👖 I'm veggie, and I have built a sustainable wardrobe. I'm really into Raw Denim jeans.
+👖 I'm really into Raw Denim jeans.
+
+🤖 I like Cyberpunk more than you do.
 
 🦎 I live in Aotearoa New Zealand. Ko ia te ātaahua.
 
-🍸 We should eat the rich. You should join a union.
-
-🤖 I like Cyberpunk more than you do.
+🍸 We should eat the rich and you should join a union.
 
 ## Who is Case?
 
