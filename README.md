@@ -13,7 +13,7 @@ You may know me from either:
 
 Or general Python things. I'm a member of the https://python.nz/ commitee.
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=phalt)](https://github.com/anuraghazra/github-readme-stats
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=phalt&show_icons=true&hide_border=true)
 
 ## Not Programming
 
