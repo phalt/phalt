@@ -36,3 +36,5 @@ The internet was cooler when we had pseudonyms or nom de plumes.
 Case, from [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer). Atreides from [Dune](https://en.wikipedia.org/wiki/Dune_(novel)).
 
 Mum named me after Paul Atreides, so using that as a pseudonym is out!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=phalt-githubreadme)
