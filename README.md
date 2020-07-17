@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hi I'm Paul</h2>
-<p align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=phalt-githubreadme)</p>
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=phalt-githubreadme)
+</p>
 
 You probably stumbled here through Twitter or one of my GitHub projects.
 
