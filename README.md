@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi I'm Paul</h3>
+<h2 align="center">👋 Hi I'm Paul</h2>
 
 You probably stumbled here through Twitter or one of my GitHub projects.
 
