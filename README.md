@@ -23,6 +23,8 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 
 🤖 I like Cyberpunk more than you do.
 
+🐉 I am a Pokemon trainer.
+
 🦎 I live in Aotearoa New Zealand. Ko ia te ātaahua.
 
 🍸 We should eat the rich and you should join a union.
