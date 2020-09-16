@@ -25,7 +25,7 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 
 🐉 I am a Pokemon trainer.
 
-🦎 I live in Aotearoa New Zealand. Ko ia te ātaahua.
+🦎 I live in Aotearoa New Zealand. He ātaahua ia.
 
 🍸 We should eat the rich and you should join a union.
 
