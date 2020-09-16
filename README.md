@@ -31,7 +31,7 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 
 ## Who is Case?
 
-The internet was cooler when we had pseudonyms or nom de plumes.
+The internet was cooler when we had pseudonyms.
 
 **Case** or **Case Atreides** is the name I use in places that I don't want to associate with the meatspace "Paul Hallett".
 
