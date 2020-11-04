@@ -24,13 +24,15 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 
 ## Not Programming
 
-🐦 I do [The Tweets](https://twitter.com/phalt_).
-
 👖 I'm really into Raw Denim jeans.
 
-🤖 I like Cyberpunk more than you do.
+⚫⚪ I play Go.
+
+🤖 I really like the Cyberpunk genre.
 
 🐉 I am a Pokemon trainer.
+
+🌱 I am a bit of a nature witch.
 
 🦎 I live in Aotearoa New Zealand. He ātaahua ia.
 
