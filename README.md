@@ -37,13 +37,3 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 🦎 I live in Aotearoa New Zealand. He ātaahua ia.
 
 🍸 We should eat the rich and you should join a union.
-
-## Who is Case?
-
-The internet was cooler when we had pseudonyms.
-
-**Case** or **Case Atreides** is the name I use in places that I don't want to associate with the meatspace "Paul Hallett".
-
-Case, from [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer). Atreides from [Dune](https://en.wikipedia.org/wiki/Dune_(novel)).
-
-Mum named me after Paul Atreides, so using that as a pseudonym is out!
