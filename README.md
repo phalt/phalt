@@ -28,9 +28,7 @@ Or general Python things. I'm a member of the https://python.nz/ commitee.
 
 ⚫⚪ I play Go.
 
-🤖 I really like the Cyberpunk genre.
-
-🐉 I am a Pokemon trainer.
+📷 I shoot film photography (currently on a Leica M6).
 
 🌱 I am a bit of a nature witch.
 
