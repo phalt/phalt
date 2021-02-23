@@ -7,7 +7,7 @@
 ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)
 ![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif)
 
-You probably stumbled here through Twitter or one of my GitHub projects.
+You probably stumbled here through one of my GitHub projects.
 
 I write open source software. I like Python and JS.
 
