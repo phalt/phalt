@@ -18,9 +18,9 @@ You may know me from either:
 3) [SWAPI](https://github.com/phalt/swapi)
 4) [Django API Domains](https://github.com/phalt/django-api-domains)
 
-Or general Python things. I'm a member of the https://python.nz/ commitee.
+## Do you work with me?
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=phalt&show_icons=true&hide_border=true)
+[I've written a README to help you understand how I work](https://managerreadme.com/readme/case)
 
 ## Not Programming
 
