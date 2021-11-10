@@ -26,8 +26,6 @@ You may know me from either:
 
 👖 I'm really into Raw Denim jeans.
 
-⚫⚪ I play Go.
-
 📷 I shoot film photography (currently on a Leica M6).
 
 🌱 I am a bit of a nature witch.
