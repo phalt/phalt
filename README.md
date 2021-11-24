@@ -28,8 +28,6 @@ You may know me from either:
 
 📷 I shoot film photography (currently on a Leica M6).
 
-🌱 I am a bit of a nature witch.
-
 🦎 I live in Aotearoa New Zealand. He ātaahua ia.
 
 🍸 We should eat the rich and you should join a union.
