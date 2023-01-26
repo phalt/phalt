@@ -28,6 +28,6 @@ You may know me from either:
 
 📷 I shoot film photography (currently on a Leica M6).
 
-🦎 I live in Aotearoa New Zealand. He ātaahua ia.
+✈️ I'm studying to be a pilot
 
 🍸 We should eat the rich and you should join a union.
