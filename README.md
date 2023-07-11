@@ -22,7 +22,7 @@ You may know me from either:
 
 [This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
 
-## Not Programming
+## Other hobbies
 
 👖 I'm really into Raw Denim jeans.
 
