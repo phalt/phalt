@@ -20,7 +20,7 @@ You may know me from either:
 
 ## Do you work with me?
 
-[I've written a README to help you understand how I work](https://managerreadme.com/readme/case)
+[This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
 
 ## Not Programming
 
