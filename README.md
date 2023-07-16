@@ -22,6 +22,10 @@ You may know me from either:
 
 [This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
 
+## Want to read my CV?
+
+[Here ya go](https://docs.google.com/document/d/1UkMVdpbXxkhQhm8TyDj7k2RY4XUmP_AhDFM8iRSQ6fI/edit?usp=sharing)
+
 ## Other hobbies
 
 👖 I'm really into Raw Denim jeans.
