@@ -15,8 +15,7 @@ You may know me from either:
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
 2) [Beckett](https://github.com/phalt/beckett-framework)
-3) [SWAPI](https://github.com/phalt/swapi)
-4) [Django API Domains](https://github.com/phalt/django-api-domains)
+3) [Django API Domains](https://github.com/phalt/django-api-domains)
 
 ## Do you work with me?
 
