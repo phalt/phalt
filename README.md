@@ -14,7 +14,7 @@ I write open source software. I like Python and JS.
 You may know me from either:
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
-2) [Beckett](https://github.com/phalt/beckett-framework)
+2) [Clientele](https://github.com/beckett-software/clientele)
 3) [Django API Domains](https://github.com/phalt/django-api-domains)
 
 ## Do you work with me?
