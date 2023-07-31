@@ -1,17 +1,8 @@
-<h2 align="center">👋 Hi I'm Paul</h2>
+<h1 align="center">👋 Hi I'm Paul</h1>
 
-![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif)
-![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)
-![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif)
-![jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif)
-![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)
-![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif)
+I write open source software. I like Python and Typescript.
 
-You probably stumbled here through one of my GitHub projects.
-
-I write open source software. I like Python and JS.
-
-You may know me from either:
+## My projects
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
 2) [Clientele](https://github.com/beckett-software/clientele)
@@ -27,10 +18,6 @@ You may know me from either:
 
 ## Other hobbies
 
-👖 I'm really into Raw Denim jeans.
-
 📷 I shoot film photography (currently on a Leica M6).
 
 ✈️ I'm studying to be a pilot
-
-🍸 We should eat the rich and you should join a union.
