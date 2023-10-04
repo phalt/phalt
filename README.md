@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi I'm Paul</h1>
 
-I write open source software. I like Python and Typescript.
+I write open source software. I love Python 🐍.
+
+I am obsessed with HTTP, APIs and [Hypermedia systems](https://hypermedia.systems/) 🌐
+
+I live in East Anglia, and work in London. 🇬🇧
 
 ## My projects
 
@@ -12,7 +16,7 @@ I write open source software. I like Python and Typescript.
 
 [This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
 
-## Want to read my CV?
+## Want to read my resume?
 
 [Here ya go](https://docs.google.com/document/d/1UkMVdpbXxkhQhm8TyDj7k2RY4XUmP_AhDFM8iRSQ6fI/edit?usp=sharing)
 
