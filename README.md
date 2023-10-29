@@ -4,7 +4,7 @@ I write open source software. I love Python 🐍.
 
 I am obsessed with HTTP, APIs and [Hypermedia systems](https://hypermedia.systems/) 🌐
 
-I live in East Anglia, and work in London. 🇬🇧
+I live in Suffolk, and work in London. 🇬🇧
 
 ## My projects
 
