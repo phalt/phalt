@@ -12,9 +12,10 @@ I live in Norwich, and work in London. 🇬🇧
 2) [Clientele](https://github.com/beckett-software/clientele)
 3) [Django API Domains](https://github.com/phalt/django-api-domains)
 
-## Do you work with me?
+<!-- ## Do you work with me?
 
 [This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
+-->
 
 ## Want to read my resume?
 
