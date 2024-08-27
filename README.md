@@ -24,5 +24,3 @@ I live in Norwich, and work in London. 🇬🇧
 ## Other hobbies
 
 📷 I shoot film photography (currently on a Leica M6).
-
-✈️ I'm studying to be a pilot
