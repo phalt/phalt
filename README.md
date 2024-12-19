@@ -6,6 +6,8 @@ I am obsessed with HTTP, APIs and [Hypermedia systems](https://hypermedia.system
 
 I live in Norwich, and work in London. 🇬🇧
 
+<img src="https://komarev.com/ghpvc/?username=phalt&color=0000E5&style=flat-square">
+
 ## My projects
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
