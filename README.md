@@ -9,13 +9,9 @@ I live in Norwich, and work in London. 🇬🇧
 ## My projects
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
-2) [Clientele](https://github.com/beckett-software/clientele)
-3) [Django API Domains](https://github.com/phalt/django-api-domains)
-
-<!-- ## Do you work with me?
-
-[This is how I work](https://docs.google.com/document/d/1D8ti94US0lWoSG8NiGoAvUMr9dlerI2euI3TotPNoeM/edit?usp=sharing)
--->
+2) [Clientele](https://github.com/phalt/clientele)
+3) [Cicerone](https://github.com/phalt/cicerone)
+4) [Django API Domains](https://github.com/phalt/django-api-domains)
 
 ## Want to read my resume?
 
