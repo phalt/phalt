@@ -8,6 +8,8 @@ I live in Norwich, and work in London. 🇬🇧
 
 ## My projects
 
+As I said above, all my favourite and popular projects are HTTP API related, take a look!
+
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
 2) [Clientele](https://github.com/phalt/clientele)
 3) [Cicerone](https://github.com/phalt/cicerone)
