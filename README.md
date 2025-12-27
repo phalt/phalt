@@ -13,9 +13,11 @@ I live in Norwich, and work in London. 🇬🇧
 3) [Cicerone](https://github.com/phalt/cicerone)
 4) [Callback-scribe](https://github.com/phalt/callback-scribe)
 
-## Want to read my resume?
+## Resume / membership
 
-[Here ya go](https://docs.google.com/document/d/1UkMVdpbXxkhQhm8TyDj7k2RY4XUmP_AhDFM8iRSQ6fI/edit?usp=sharing)
+[Here is my resume](https://docs.google.com/document/d/1UkMVdpbXxkhQhm8TyDj7k2RY4XUmP_AhDFM8iRSQ6fI/edit?usp=sharing).
+
+I have been awared [Django community membership](https://www.djangoproject.com/foundation/individual-members/#:~:text=Patryk%20Bratkowski-,Paul%20Hallett,-Paul%20McMillan).
 
 ## Other hobbies
 
