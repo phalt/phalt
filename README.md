@@ -2,7 +2,7 @@
 
 I write open source software. I love Python 🐍.
 
-I am obsessed with HTTP, APIs and [Hypermedia systems](https://hypermedia.systems/) 🌐
+I am obsessed with HTTP, APIs, [Hypermedia systems](https://hypermedia.systems/) and hyper-personalised software 🌐
 
 I live in Norwich, and work in London. 🇬🇧
 
@@ -10,6 +10,7 @@ I live in Norwich, and work in London. 🇬🇧
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
 2) [Clientele](https://github.com/phalt/clientele)
+3) [Paulblish](https://github.com/phalt/paulblish)
 
 ## Resume / membership
 
