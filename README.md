@@ -11,6 +11,8 @@ I live in Norwich, and work in London. 🇬🇧
 1) [PokeAPI](https://github.com/pokeapi/pokeapi)
 2) [Clientele](https://github.com/phalt/clientele)
 3) [Paulblish](https://github.com/phalt/paulblish)
+4) [Pauldot](https://github.com/phaklt/pauldot)
+5) [Paulias](https://github.com/phalt/paulias)
 
 ## Resume / membership
 
