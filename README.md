@@ -8,11 +8,11 @@ I live in Norwich, and work in London. 🇬🇧
 
 ## My projects
 
-1) [PokeAPI](https://github.com/pokeapi/pokeapi) - The Pokemon API
-3) [Clientele](https://github.com/phalt/clientele) - Comprehensive API Client framework
+1) [PokeAPI](https://github.com/pokeapi/pokeapi) - The Pokemon API.
+3) [Clientele](https://github.com/phalt/clientele) - Comprehensive API Client framework.
 4) [Paulblish](https://github.com/phalt/paulblish) - Builds my [website](https://paulwrites.software) from markdown files.
 5) [Paulrun](https://github.com/phaklt/paulrun) - Runs my markdown procedures and code snippets like run books.
-6) [Paulias](https://github.com/phalt/paulias) - Turns a markdown file into a [URL shortener website](https://paulias.dev)
+6) [Paulias](https://github.com/phalt/paulias) - Turns a markdown file into a [URL shortener website](https://paulias.dev).
 
 ## Resume / membership
 
