@@ -8,11 +8,11 @@ I live in Norwich, and work in London. 🇬🇧
 
 ## My projects
 
-1) [PokeAPI](https://github.com/pokeapi/pokeapi)
-2) [Clientele](https://github.com/phalt/clientele)
-3) [Paulblish](https://github.com/phalt/paulblish)
-4) [Pauldot](https://github.com/phaklt/pauldot)
-5) [Paulias](https://github.com/phalt/paulias)
+1) [PokeAPI](https://github.com/pokeapi/pokeapi) - The Pokemon API
+3) [Clientele](https://github.com/phalt/clientele) - Comprehensive API Client framework
+4) [Paulblish](https://github.com/phalt/paulblish) - Builds my [website](https://paulwrites.software) from markdown files.
+5) [Paulrun](https://github.com/phaklt/paulrun) - Runs my markdown procedures and code snippets like run books.
+6) [Paulias](https://github.com/phalt/paulias) - Turns a markdown file into a [URL shortener website](https://paulias.dev)
 
 ## Resume / membership
 
@@ -25,3 +25,5 @@ I have been awared [Django community membership](https://www.djangoproject.com/f
 📷 I take photos with analog film cameras (currently on a Leica M6).
 
 🥁 I play drums.
+
+🇯🇵 日本語を勉強しています。
