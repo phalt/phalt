@@ -2,7 +2,7 @@
 
 I write open source software. I love Python 🐍.
 
-I am obsessed with HTTP, APIs, [Hypermedia systems](https://hypermedia.systems/) and hyper-personalised software 🌐
+I am obsessed with HTTP, APIs, [Hypermedia systems](https://hypermedia.systems/) and [hyper-personalised software](https://paulwrites.software/articles/hyps/) 🦛🌐
 
 I live in Norwich, and work in London. 🇬🇧
 
