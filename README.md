@@ -10,8 +10,8 @@ I live in Norwich, and work in London. 🇬🇧
 
 1) [PokeAPI](https://github.com/pokeapi/pokeapi) - The Pokemon API.
 3) [Clientele](https://github.com/phalt/clientele) - Comprehensive API Client framework.
-4) [Paulblish](https://github.com/phalt/paulblish) - Builds my [website](https://paulwrites.software) from markdown files.
-5) [Paulrun](https://github.com/phalt/paulrun) - Runs my markdown procedures and code snippets like run books.
+4) [Zoetty](https://github.com/phalt/zoetty) - Cute little SVG terminal demos for your projects.
+5) [Rundot](https://github.com/phalt/rundot) - Turn markdown files into executable procedures.
 6) [Paulias](https://github.com/phalt/paulias) - Turns a markdown file into a [URL shortener website](https://paulias.dev).
 
 ## Resume / membership
